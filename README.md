@@ -1,9 +1,8 @@
 ---
-Hi there 👋
+# Hi there 👋
 
-Im an starting Frontend Developer with a aspiring goal to strive to be better
+I'm Jay (He/Him) - I'm an starting Frontend Developer with a aspiring goal to strive better achievements.
 
-- 🔭 I’m currently working on --- > HTML, & CSS
-- 🌱 I’m currently learning --- > Javascript
-
+## Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 ---
